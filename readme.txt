@@ -1,0 +1,4 @@
+GUI具体使用说明：VerificationCodeRecognition窗口使用说明.pdf文件中。
+
+GUI说明：
+直接运行VerificationCodeRecognition.m
